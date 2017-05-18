@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blairvanderhoof/gist-embed.git"
+    "url": "https://github.com/p0lip/gist-embed.git"
   },
   "keywords": [
     "gist",
@@ -19,15 +19,14 @@
   "author": "Blair Vanderhoof",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/blairvanderhoof/gist-embed/issues"
+    "url": "https://github.com/p0lip/gist-embed/issues"
   },
   "autoupdate": {
     "source": "git",
-    "target": "https://github.com/blairvanderhoof/gist-embed.git",
+    "target": "https://github.com/p0lip/gist-embed.git",
     "basePath": "",
     "files": [
-      "gist-embed.js",
-      "gist-embed.min.js"
+      "gist-embed.js"
     ]
   }
 }

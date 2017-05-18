@@ -1,14 +1,5 @@
 ## How to use gist-embed to spice up code snippets on your blog
 
-#### Include jQuery and gist-embed src:
-
-```html
-  <head>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.4/gist-embed.min.js"></script>
-  </head>
-```
-
 #### Add an HTML element to your page with a data attribute in the following format, where `<gist-id>` should be replaced with the id of your gist:
 
 ```html
